@@ -317,21 +317,6 @@
         "source": "Blida 2019"
     },
     {
-        "question": "Concernant la réaction immunitaire anti tumorale, et les polynucléaires",
-        "propositions": [
-            "Les supports de cette réaction sont surtout les lymphocytes T et les polynucléaires.",
-            "Le principal type de réponse immunitaire permettant l'éradication des tumeurs est la destruction des cellules tumorales par les CTL spécifiques des antigènes tumoraux.",
-            "Les mécanismes de cytotoxicité à médiation cellulaire sont assurés par les lymphocytes CD8 et par les polynucléaires neutrophiles.",
-            "Les lymphocytes THDR cytotoxiques peuvent éliminer une cellule cible en libérant des perforines et des sérines estérases.",
-            "les lymphocytes TCD4 peuvent jouer un rôle cytotoxique par contact direct avec la cellule cible par l'intermédiaire entre (TRAIL-ligand et TNF-TRAIL)."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 2019"
-    },
-    {
         "question": "Concernant l'immunité anti bactérienne",
         "propositions": [
             "Les déficits en anticorps, en complément, et en PNN favorise le risque d'infection par des bactéries pyogènes à multiplication extra cellulaire.",
@@ -469,17 +454,6 @@
         ],
         "general_explanation": [
             "L'asthme sévère est généralement une contre-indication à la désensibilisation (risque majeur d'anaphylaxie) ; le traitement de choix repose plutôt sur l'anti-IgE (Omalizumab)."
-        ],
-        "source": "Blida 2019"
-    },
-    {
-        "question": "Lors des états d'hypersensibilité de type III",
-        "propositions": [
-            "Plus les complexes immuns sont petits plus ils sont faciles à éliminer.",
-            "Les complexes immuns formés d'anticorps d'isotype IgG sont plus difficile à éliminer que les complexes immuns à anticorps d'isotype IgA.",
-            "les globules rouges participent activement dans l'épuration des complexes immuns.",
-            "Le déficit en phagocytose favorise l'accumulation des complexes immuns.",
-            "Le dépôt des complexes immuns dépend de la perméabilité vasculaire."
         ],
         "source": "Blida 2019"
     },
@@ -738,43 +712,6 @@
         "source": "Blida 2021"
     },
     {
-        "question": "Dans la transplantation rénale : (Cocher la proposition INEXACTE).",
-        "propositions": [
-            "La compatibilité rhésus est obligatoire.",
-            "Un HLA identique entre le receveur et le donneur est obligatoire.",
-            "L'incompatibilité ABO contre indique la transplantation.",
-            "Un auto cross math positif contre ne contre indique pas la transplantation.",
-            "La présence d'allo-anticorps anti HLA chez le receveur contre indique obligatoirement la transplantation."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Concernant la transplantation :(Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Le cross match consiste à faire agir le sérum du donneur sur des cellules du receveur",
-            "Le rejet hyper aigu est la conséquence de la présence d'allo Anticorps cytotoxiques préformés chez le receveur, dirigés contre les molécules HLA du donneur,",
-            "Le suivi sérologique en alloanticorps du donneur est nécessaire avant et après la transplantation.",
-            "L'Allogreffe survient entre des individus génétiquement différents et issus d'une même espèce.",
-            "La compatibilité du système ABO entre le donneur et le receveur n'est que facultative."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "En ce qui concerne la greffe de la moelle osseuse : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Peut être indiquée en cas de déficits immunitaires primitifs sévères.",
-            "Nécessite un HLA identique (classe I, classe II), entre le receveur et le donneur",
-            "La réaction de rejet des cellules greffées représente l'une des complications",
-            "Les infections peuvent être évitées par une bonne sélection vis à vis des allo anticorps anti HLA.",
-            "La réaction du RGVH est une réaction des cellules immunocompétentes de l'hôte contre le greffon"
-        ],
-        "source": "Blida 2021"
-    },
-    {
         "question": "La séparation électrophorétique des protéines sériques : (Cocher la proposition INEXACTE)",
         "propositions": [
             "Est quantitative et permet de déceler un déficit en IgG",
@@ -791,17 +728,6 @@
         ],
         "explanation": "L’Immunofixation (IF) : Le Gold Standard Actuel... L’objectif est d’identifier l’isotype exact d’une immunoglobuline monoclonale. (page 6)",
         "general_explanation": "Simple electrophoresis only separates proteins to reveal a peak; the specific typing (isotype identification) of a monoclonal component must be done by Immunofixation.",
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Une hyper gammaglobulinémie polyclonale nette évoque : (Cocher la proposition INEXACTE).",
-        "propositions": [
-            "Une inflammation aigue",
-            "Une inflammation chronique",
-            "Une augmentation des IgG",
-            "Une augmentation des taux des fractions du complément",
-            "N'a pas de signification"
-        ],
         "source": "Blida 2021"
     },
     {
@@ -843,50 +769,6 @@
         "source": "Blida 2021"
     },
     {
-        "question": "Le Syndrome APECED est caractérisé par : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Une polyendocrinopathie auto-immune",
-            "Un défaut de tolérance périphérique",
-            "Une mutation du gène AIRE (AutoimmuneRegulator)",
-            "Est de transmission récessive liée au chromosome X",
-            "Un déficit quantitatif et qualitatif des Lymphocytes T régulateurs."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Les auto anticorps naturels sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Des IgM.",
-            "De faible affinité.",
-            "Des auto-anticorps anti ADN",
-            "Retrouvés quelques mois avant l'apparition des signes cliniques.",
-            "Synthétisés en faible quantité."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Les auto anticorps pathogènes peuvent êtres des : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Auto anticorps opsonisants par activation des cytokines",
-            "Auto anticorps anti récepteurs bloquants comme dans la myasthénie",
-            "Auto anticorps anti antigènes solubles provoquant une hyperglycémie",
-            "Auto anticorps anti facteurs intrinsèques à l'origine des anémies hémolytiques",
-            "Auto anticorps formant des complexes immuns qui peuvent se déposés au niveau des vaisseaux"
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "La maladie de Basedow est : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Une hyperthyroïdie auto immune",
-            "Plus fréquente chez le sexe masculin",
-            "Caractérisée par une augmentation de la TSH",
-            "La présence d'auto-anticorps anti-nucléosome",
-            "La présence d'auto-anticorps anti récepteurs de la TSH"
-        ],
-        "source": "Blida 2021"
-    },
-    {
         "question": "La Cholangite Biliaire Primitive (CBP) : (Cocher la proposition INEXACTE)",
         "propositions": [
             "Est appelée aussi cirrhose biliaire primitive CBP",
@@ -903,61 +785,6 @@
         ],
         "explanation": "La Cholangite Biliaire Primitive (CBP) : Touche surtout les femmes entre 35 et 60 ans (page 35)",
         "general_explanation": "Proposition 1 is incorrect because the disease typically affects women between 35 and 60 years of age, not 15 to 20. Other propositions regarding the nature of the disease and the specificity of anti-mitochondria type 2 antibodies (AMA) are correct.",
-        "source": "Blida 2021"
-    },
-    {
-        "question": "syndrome de Sharp : MTCD : Mixed Connective Tissue Disease: (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Se caractérise par l'association du LED, de la sclérodermie systémique et de la maladie cœliaque.",
-            "La présence de l'auto-anticorps anti ADN.",
-            "Des auto-anticorps anti nucléaires chez la plupart des patients.",
-            "La présence de l'auto-anticorps anti Histone",
-            "La présence de l'auto anticorps anti RNP (ribo nucléo protein) à un titre élevé"
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "maladie de Wegener : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est une granulomateuse bipolaire (Pulmonaire et Hépatique)",
-            "Touche l'adulte entre 40 à 50 ans, rarement les enfants,",
-            "Il n'y a pas de prédominance de sexe",
-            "La présence de l'auto anticorps anti MPO3 :",
-            "La présence des ANCA"
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "lupus érythémateux systémique : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "st une maladie auto-immune non spécifique d'organe.",
-            "st une maladie à complexes immuns.",
-            "st caractérisé par la production d'auto-anticorps anti-actine.",
-            "eut être induit par certains médicaments.",
-            "mplique les mécanismes d'hypersensibilité de type III et IV."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "es maladies auto-immunes, sont des maladies spécifique d'organe : (Cocher la proposition XACTE)",
-        "propositions": [
-            "a polyarthrite rhumatoïde.",
-            ".'anémie de Biermer.",
-            "a polymyosite.",
-            "a sclérodermie.",
-            "a myasthénie."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "e lupus erythémateuxdissiminé est caractérisé sur le plan biologique par: (Cocher la position INEXACTE)",
-        "propositions": [
-            "Des auto-anticorps anti structure du noyaux (FAN)",
-            "Des auto-anticorps anti ADN dans (70%) des cas",
-            "Des auto-anticorps anti Sm et PCNA",
-            "Des auto-anticorps anti cytoplasme des polynucléaires neutrophiles",
-            "Des auto-anticorps anti membrane basale glomérulaire"
-        ],
         "source": "Blida 2021"
     },
     {
@@ -999,39 +826,6 @@
         "source": "Blida 2021"
     },
     {
-        "question": "Concernant le syndrome de gougerot sjögren (syndrome sec) : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "C'est une exocrinopathie auto immune avec des signes d'atteintes spécifiques et généralisées. Peut être primitive ou secondaire",
-            "Touche surtout les femmes après 15 ans",
-            "Le diagnostic est posé devant une kérato-conjonctivite sèche et une xérostomie",
-            "Les auto-anticorps anti SSA et SSB sont très fréquent",
-            "On retrouve souvent une hypogamma-globulinémie ."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "La sclérodermie est caractérisée par : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Les deux formes, la forme cutanée et la forme articulaire",
-            "Est une pathologie relativement rare",
-            "Se caractérise par un épaississement fibreux des muqueuses",
-            "Pour la forme systémique, la fibrose touche les vaisseaux et peut atteindre différents organes (rein, cœur, poumon, tube digestif, articulations et les muscles)",
-            "La présence de l'auto-anticorps anti Scl 70 (topoisomérase)"
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Une variante de sclérodermie (CREST) est caractérisée par : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Une calcinose (dépôt de calcium)",
-            "La présence de l'auto-anticorps anti ribosome",
-            "Une atteinte oesophagienne (dysmobilité)",
-            "Une sclérodactylie (déformation des doigts)",
-            "Une télangiectasie (dilatation des vaisseaux)"
-        ],
-        "source": "Blida 2021"
-    },
-    {
         "question": "Les maladies auto-immunes sont : (Cocher la proposition INEXACTE)",
         "propositions": [
             "Dues à une rupture de la tolérance vis-à-vis des constituants du système du cmplément",
@@ -1045,50 +839,6 @@
         ],
         "explanation": "L’Auto-immunité : Rupture de la tolérance, le système attaque le \"soi\".(page 4)",
         "general_explanation": "Autoimmune diseases are caused by a breakdown in immune tolerance leading to the production of pathogenic auto-antibodies against self-antigens. Natural auto-antibodies are generally low-affinity and non-pathogenic.",
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Ces arguments soutiennent l'implication des facteurs environnementaux dans le développement des maladies auto-immunes sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Plus de 90% de concordance de la maladie chez les jumeaux monozygotes.",
-            "Résolution ou amélioration de la maladie chez un individu après le retrait de l'agent suspect.",
-            "Récidive ou aggravation de la maladie chez un individu après la ré-exposition à l'agent suspect.",
-            "Le risque de développer une maladie chez un apparenté du 1er degré d'un patient atteint d'une MAI est nettement supérieur à celui de la population générale.",
-            "Les infections virales sont souvent incriminées"
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "La polyarthrite rhumatoïde (PR): (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est la plus fréquente des rhumatismes inflammatoires, touche 0,5 à 1 % de la population).",
-            "Touche les femmes et les hommes sans prédominance de sexe.",
-            "Est une maladie inflammatoire aboutissant à la déformation et à la destruction des articulations (la synoviale).",
-            "Débute aux petites articulations (main, pied, poignet), d'autres articulations sont touchées d'une façon asymétrique.",
-            "Est caractérisée par des manifestations extra articulaires comme la fibrose pulmonaire secondaire à l'atteinte pulmonaire interstitielle et des nodules sous cutanées."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "La polyarthrite rhumatoïde (PR) est caractérisée : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Par une raideur matinale, au minimum de trois articulations,",
-            "Par des arthrites et des arthralgies surtout le matin",
-            "Par des lésions qui sont souvent asymétriques.",
-            "Par la présence des Facteurs Rhumatoïdes (FR) dans 50 à 70% des cas souvent d'isotype IgM, parfois IgG ou IgA.",
-            "Par la présence de l'auto-anticorps anti-peptides cycliques citrullinés (anti CCP) qui est un marqueur immunologique a visée diagnostique et pronostique."
-        ],
-        "source": "Blida 2021"
-    },
-    {
-        "question": "Le syndrome des anti phospholipides : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est toujours secondaire au lupus",
-            "Se manifeste par des thromboses vasculaires, des avortements à répétition.",
-            "La présence des auto anticorps anti cardiolipines",
-            "La présence des auto anti a glycoprotéine",
-            "Par une fausse sérologie syphilitique : (TPHA positive, VDRL négative)"
-        ],
         "source": "Blida 2021"
     },
     {
@@ -1146,141 +896,6 @@
         ],
         "explanation": "La maladie des chaînes alpha... le plasmocyte tumoral produit des Ig tronquées : il ne produit que des fragments de chaînes lourdes... sans aucune chaîne légère (κ ou λ). (page 5). Elle est diagnostiquée... par la technique d’immunosélection (page 5).",
         "general_explanation": "Alpha heavy chain disease (a variant of Mediterranean lymphoma) is characterized by a B-cell proliferation producing incomplete monoclonal heavy chains without associated light chains. Diagnosis relies on 'immunosélection' to trap normal Igs and isolate the free heavy chains.",
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le rôle pathogène des autos anticorps est assuré par:",
-        "propositions": [
-            "L'activation du système du complément.",
-            "L'opsonisation.",
-            "L'auto anticorps anti récepteurs bloquants ou stimulants.",
-            "L'augmentation de l'expression des molécules HLA par les cellules présentatrices d'antigènes.",
-            "Le dépôt de complexes immuns."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Au cours de la commutation isotypique des immunoglobulines :",
-        "propositions": [
-            "Chaque clone de lymphocyte B conserve sa spécificité antigénique.",
-            "La classe des chaînes légères reste inchangée.",
-            "Les déterminants isiotypiques reste inchangés.",
-            "Est une caractéristique des réponses immunitaires humorales développées contre les antigènes T dépendant.",
-            "Les différents isotypes d'anticorps produits, exercent les mêmes fonctions."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les symptômes d'un asthme allergique sont attribués à :",
-        "propositions": [
-            "La dégranulation spontanée des mastocytes.",
-            "Un déficit de l'immunité à médiation cellulaire.",
-            "La fixation des IgE sur les mastocytes.",
-            "Une incapacité à inhiber l'activation du système du complément.",
-            "Tous les cas cités ci-dessus."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les propositions suivantes relatives aux cytokines :",
-        "propositions": [
-            "Une des cibles cellulaires de l'interleukine 1 sont les cellules endothéliales.",
-            "Les sources cellulaires principales de l'IL4 sont les cellules NK et les macrophages.",
-            "L'état antiviral est un effet biologique de l'interféron gamma.",
-            "Leurs synthèse est inductible.",
-            "La prolifération est un effet biologique de l'interleukine 2 sur les monocytes."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant l'IL2:",
-        "propositions": [
-            "Est la seule cytokine dont l'action est exclusivement lymphocytaire.",
-            "Augmente l'activité cytotoxique des éosinophiles.",
-            "Elle est produite principalement par les lymphocytes Th17.",
-            "A presque la même activité biologique que l'IL15, car leurs récepteurs partagent les sous-unités β et γ.",
-            "A pour principale action de stimuler la prolifération des Ly TH qui ont produit cette cytokine."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'activation des LTCD4 naifs qui conduit à l'expansion clonale nécessite:",
-        "propositions": [
-            "Un signal provenant du TCR suite à la reconnaissance spécifique de l'Ag.",
-            "Des signaux de co-stimulation.",
-            "Un Signal de polarisation cytokinique et membranaire.",
-            "Une coopération avec les cellules dendritiques, les macrophages ou les lymphocytes B.",
-            "Les réponses A+B sont justes."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les molécules HLA de classe II:",
-        "propositions": [
-            "Sont impliquées dans la présentation de l'antigène aux lymphocytes T CD4.",
-            "Sont des glycoprotéines formées de deux chaines codées par les gènes DR, DQ, DP.",
-            "N'interviennent pas dans l'éducation intra-thymique des lymphocytes T.",
-            "Ont une distribution restreinte aux lymphocytes B, lymphocytes T activés, macrophages et les cellules dendritiques.",
-            "Voient leur expression augmentée par l'interféron γ."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant les organes lymphoïdes primaires :",
-        "propositions": [
-            "Ce sont les sites de maturation lymphocytaire.",
-            "Sont abondamment drainés par le réseau lymphatique.",
-            "L’attraction cellulaire vers le thymus implique le couple CCL25-CCR9.",
-            "Ce sont les sites d’élimination des lymphocytes auto-réactifs.",
-            "L’attraction cellulaire vers la moelle osseuse implique la chimiokine CXCL12."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant les organes lymphoïdes secondaires :",
-        "propositions": [
-            "Ils constituent le lieu de rencontre des lymphocytes avec les antigènes.",
-            "Les zones folliculaires ganglionnaires sont le siège du développement des centres germinatifs.",
-            "La chimiokine CXCL13 est spécifique aux aires B-dépendantes ganglionnaires.",
-            "L’activation des lymphocytes T nécessite un apprêtement antigénique effectué par les cellules dendritiques folliculaires.",
-            "Leurs développement est antigène dépendant."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les Pattern Recognition Receptors (PRRs), on reconnait :",
-        "propositions": [
-            "Les Toll Like Receptors (TLRs).",
-            "La fraction MBL du complément.",
-            "La protéine réactive-C (CRP).",
-            "La fraction C3b.",
-            "Le récepteur CR3."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La fonction effectrice du PNN :",
-        "propositions": [
-            "La reconnaissance des antigènes est exclusivement dépendante des opsonines ou des TLR",
-            "L' explosion oxydative et la synthèse de protéines de novo sont les deux mécanismes essentiels de la bactéricide",
-            "La nétose forme de mort cellulaire, au cours de laquelle le PNN libère le NET composé de chromatine décondensé, garni des protéines anti-microbiennes",
-            "Le PNN exerce une fonction pro inflammatoire et anti-inflammatoire selon le besoin"
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les cellules dendritiques :",
-        "propositions": [
-            "Sont des cellules phagocytaires de l'immunité innée.",
-            "Avec le macrophage et le lymphocyte B constituent des cellules présentatrices d'antigènes capable d'activer le lymphocyte T naïf.",
-            "Les plasmacytoïdes ont une origine lymphoïde et sont uniquement impliquer dans la réponse immunitaire antivirale.",
-            "Changent de morphologie selon leurs fonctions.",
-            "Toutes les réponses sont fausses."
-        ],
         "source": "Blida 20xx"
     },
     {
@@ -1368,17 +983,6 @@
         ],
         "general_explanation": [
             "Le rejet hyper-aigu est causé par des anticorps préexistants (et non néoformés). Ces anticorps peuvent résulter d'immunisations antérieures comme des transfusions (B). Sa prévention est cruciale et passe par la compatibilité ABO et un cross-match négatif (C), qui détecte justement ces anticorps cytotoxiques préformés (D). Ce type de rejet est une urgence médicale, irréversible, dont le seul traitement est le retrait du greffon (E). La proposition A est donc fausse."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'hypersensibilité de type I:",
-        "propositions": [
-            "Fait intervenir des anticorps cytotropes IgA et des IgE solubles.",
-            "Fait intervenir les cellules NK dans les mécanismes lésionnels via leurs récepteurs Fcγ R.",
-            "La maladie hémolytique du nouveau-né implique des anticorps IgG anti-antigène D.",
-            "Fait intervenir des antigènes membranaires comme les molécules HLA.",
-            "Le rejet hyper-aigu et la maladie de Good Pasture en sont des exemples."
         ],
         "source": "Blida 20xx"
     },
@@ -1596,168 +1200,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Parmi les déficits immunitaires primitifs (DIP) suivants, indiquer celui (ou ceux) qui a (ou ont) une transmission liée au sexe:",
-        "propositions": [
-            "Le syndrome de Wiscott Aldrich.",
-            "La maladie de Bruton.",
-            "La granulomatose septique chronique.",
-            "Le déficit immunitaire combiné sévère (DICS) par déficit en RAG1 et en RAG2.",
-            "Le déficit immunitaire combiné sévère (DICS) par déficit de la chaine CD132."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les déficits sélectifs en IgA :",
-        "propositions": [
-            "Sont toujours accompagnés de symptômes cliniques.",
-            "Sont les déficits immunitaires les plus fréquents.",
-            "S'accompagnent parfois d'un déficit en l'une des sous-classes d'IgG.",
-            "Sont caractérisés dans 50% des cas par l'apparition d'anticorps anti-IgA.",
-            "Sont toujours dus à une anomalie de la pièce sécrétoire."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les déficits immunitaires combinés sévères :",
-        "propositions": [
-            "Touchent à la fois les lymphocytes B et les lymphocytes T.",
-            "Doivent bénéficier d'une greffe de moelle osseuse.",
-            "S'accompagnent d'une très grande sensibilité aux infections virales et mycosiques.",
-            "Sont à transmission autosomale dominante.",
-            "Constituent une contre-indication majeure pour les vaccinations par germes atténués."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les déficits immunitaires primitifs de l'immunité humorale on peut citer :",
-        "propositions": [
-            "La maladie de Bruton.",
-            "Le syndrome d'hyper-IgM.",
-            "Le déficit en IgA.",
-            "Le déficit en ZAP-70.",
-            "Le déficit immunitaire combiné variable."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le syndrome APECED / mutation du gène AIRE:",
-        "propositions": [
-            "Est une poly endocrinopathie par déficit du C complément.",
-            "Est une anomalie dans la tolérance périphérique des lymphocytes T.",
-            "Est transmis selon le mode autosomale récessif.",
-            "Se révèle par une insuffisance de la surrénale.",
-            "Se révèle par une hypergonadisme."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant le syndrome IPEX / mutation du gène FOXP3:",
-        "propositions": [
-            "Le FOXP3 assure la différenciation des lymphocytes T régulateurs (Treg CD4+ CD25+).",
-            "C'est un déficit quantitatif et / ou qualitatif des T cytotoxiques.",
-            "C'est une anomalie de la tolérance centrale des lymphocytes T.",
-            "Est de transmission autosomale récessive.",
-            "Se révèle par Polyendocrinopathie, et une entéropathie."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les auto anticorps naturels sont:",
-        "propositions": [
-            "Des anticorps qui n'ont pas subi des mutations somatiques.",
-            "Surtout d'isotype IgG.",
-            "De faible affinité.",
-            "Excrétés principalement par les lymphocytes B CD5+ T dépendants.",
-            "Liés à des pathologies auto immunes spécifiques d'organe."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Ces pathologies sont des maladies auto immunes spécifiques d'organes",
-        "propositions": [
-            "La polymyosite.",
-            "La myasthénie.",
-            "La sclérodermie.",
-            "Le syndrome de CREST.",
-            "La dermatomyosite."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le lupus érythémateux systémique:",
-        "propositions": [
-            "Est une maladie auto-immune non spécifique d'organe.",
-            "Est une maladie à complexes immuns.",
-            "Est caractérisé par la production d'auto-anticorps anti-tissus.",
-            "Peut être induit par certains médicaments.",
-            "Implique les mécanismes d'hypersensibilité de type III et IV."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les maladies auto-immunes suivantes, quelle est celle non spécifique d'organe:",
-        "propositions": [
-            "La polymyosite.",
-            "L'anémie de Biermer.",
-            "La dermatomyosite.",
-            "Le diabète Insulino-dépendant.",
-            "La myasthénie."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les anomalies immunitaires du lupus érythémateux disséminé sont essentiellement:",
-        "propositions": [
-            "L'absence, dans le sérum, de complexes immuns circulants.",
-            "Une forte diminution des IgG polyclonales sériques.",
-            "Une diminution des taux sériques des composants C3 et C4 du complément.",
-            "Une diminution des taux sériques du composant C1inh du complément.",
-            "La présence des facteurs anti nucléaires."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les maladies auto-immunes sont :",
-        "propositions": [
-            "Dues à une rupture de la tolérance vis-à-vis des constituants du non soi.",
-            "Des affections inflammatoires chroniques.",
-            "Secondaires à l'action des auto-anticorps pathogènes.",
-            "Rencontrées beaucoup plus chez les sujets de sexe féminin.",
-            "Liées au chromosome X."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le déficit en molécules d'adhésion LAD-1:",
-        "propositions": [
-            "Peut être suspecté très tôt par un retard de chute du cordon ombilical.",
-            "Est caractérisé par un déficit de la chaine CD28 des intégrines.",
-            "Est caractérisé par la survenue chez les nouveaux nés d'infections récidivantes sans pus.",
-            "Il prédispose uniquement à une anomalie de la bactéricidie.",
-            "Touche principalement les garçons."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le déficit d'expression des molécules HLA de classe II:",
-        "propositions": [
-            "Est une affection liée au sexe.",
-            "Est transmis de façon autosomale récessive.",
-            "Se traduit par un déficit immunitaire combiné.",
-            "Se caractérise par une anomalie de la régulation de la transcription des gènes HLA II.",
-            "Est dû à une anomalie de structure des gènes HLA de classe II."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Le syndrome de l'immunodéficience acquise s'accompagne des anomalies suivantes",
         "propositions": [
             "Lymphopénie T CD4+.",
@@ -1808,16 +1250,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Dans l'hypersensibilité de type III:",
-        "propositions": [
-            "Les complexes immuns circulants formés de façon transitoire n'ont pas de conséquence pathologique.",
-            "Les complexes immuns circulants sont absents au cours des affections auto-immunes.",
-            "Les complexes immuns circulants contenant des IgG ou des IgM peuvent activer le complément.",
-            "Les complexes immuns circulants peuvent être observés chez un sujet après contact avec un antigène hétérologue prolongé."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "La réaction d'hypersensibilité retardée (HSR) nécessite :",
         "propositions": [
             "Une phase de sensibilisation de 24 à 48 heures après le premier contact avec l'Ag suivie d'une phase effectrice.",
@@ -1849,17 +1281,6 @@
         "general_explanation": [
             "L'hypersensibilité de type III fait intervenir des complexes immuns composés d'IgG ou d'IgM activant le complément. Des antigènes hétérologues ou endogènes peuvent induire ces complexes.",
             "L'hypersensibilité retardée nécessite des cellules présentatrices d'antigènes (ex: cellules de Langerhans), des lymphocytes T effecteurs (Th1, CD8+) et des cytokines pro-inflammatoires (IFN-gamma, TNF)."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'orientation des lymphocytes TCD4(TH0) vers la voie TH2 dépend de :",
-        "propositions": [
-            "L'action de l'IL4 et l'IL13.",
-            "Une intéraction CTLA4-CD28.",
-            "Un terrain atopique.",
-            "Une faible dose d'allergène.",
-            "Une forte affinité HLA-peptide-TCR."
         ],
         "source": "Blida 20xx"
     },
@@ -1940,17 +1361,6 @@
         ],
         "general_explanation": [
             "La désensibilisation consiste à administrer des doses croissantes d'allergène pour induire une tolérance. Elle est particulièrement efficace pour les venins d'hyménoptères et les pneumallergènes."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'anaphylaxie est un état d'hypersensibilité :",
-        "propositions": [
-            "Consécutif à la libération des médiateurs préformés.",
-            "Dont le mécanisme est à support sérique faisant intervenir des anticorps cytotropes.",
-            "Caractérisé par la libération immédiate de médiateurs lipidiques néoformés.",
-            "L'implication de l'IL4 et l'IL13 dans l'orientation du système immunitaire vers la synthèse des IgE.",
-            "L'implication essentielle d'allergènes de nature polysaccharidique."
         ],
         "source": "Blida 20xx"
     },
@@ -2061,17 +1471,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Lors de la prise en charge d'un asthme allergique:",
-        "propositions": [
-            "La recherche des IgE spécifiques constitue un examen incontournable.",
-            "La désensibilisation constitue le principal traitement curatif disponible.",
-            "L'éviction de l'allergène suffit généralement pour prévenir les crises.",
-            "La mise en évidence d'une hyper-éosinophilie dans les sécrétions bronchiques est en faveur de l'origine allergique de cet asthme.",
-            "La survenue de cette maladie est précédée par une phase cliniquement muette."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "pathologie humaine, parmi les maladies à complexes immuns on reconnait :",
         "propositions": [
             "la maladie sérique.",
@@ -2131,27 +1530,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Sont des réactions de type III :",
-        "propositions": [
-            "Sont des réactions retardées.",
-            "S'accompagnent d'une hypersensibilité de type I.",
-            "Se voit après injection d'un sérum hétérologue.",
-            "Sont en rapport avec la formation et le dépôt d'énormes complexes dans ou autour des petits vaisseaux."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La réaction d'hypersensibilité de type III :",
-        "propositions": [
-            "Est retrouvée dans le lupus érythémateux disséminé.",
-            "Est dépendante du système du complément.",
-            "Implique obligatoirement des polynucléaires neutrophiles.",
-            "Est une réponse immunitaire à médiation humorale.",
-            "La maladie dite la maladie du poumon du fermier."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "L'hypersensibilité de type IV :",
         "propositions": [
             "Apparaît 24 à 48 heures après le second contact avec l'antigène.",
@@ -2201,17 +1579,6 @@
         ],
         "general_explanation": [
             "L'hypersensibilité granulomateuse se rencontre dans les infections persistantes (tuberculose, lèpre, schistosomiase) et dans certaines maladies auto-immunes ou inflammatoires chroniques (maladie de Crohn, sarcoïdose)."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'immunofixation :",
-        "propositions": [
-            "Est une technique d'immunoprécipitation qualitative en milieu gélifié.",
-            "Est précédée d'une étape d'électrophorèse des protéines.",
-            "Utilise des immunserums spécifiques.",
-            "Permet de typer les immunoglobulines monoclonales.",
-            "Permet le dosage des immunoglobulines monoclonales."
         ],
         "source": "Blida 20xx"
     },
@@ -2459,137 +1826,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Parmi les auto-anticorps antinucléaires, les antigènes solubles sont :",
-        "propositions": [
-            "DNA natif et histones",
-            "SSA/SSB",
-            "Sm/RNP",
-            "Scl70"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les maladies auto-immunes non spécifiques d'organe on trouve :",
-        "propositions": [
-            "Polyarthrite rhumatoïde",
-            "Le syndrome sec (gougerot sjogren)",
-            "La maladie de Basedow",
-            "La sclérodermie",
-            "Le syndrome de SHARP"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les maladies auto-immunes sont :",
-        "propositions": [
-            "De transmissions liée à l'X",
-            "moins fréquentes chez l'homme que chez la femme",
-            "Dues à une rupture de la tolérance du soi",
-            "Caractérisées par la présence des auto-anticorps et/ou les LT auto-réactifs",
-            "Caractérisées par une prédisposition génétique"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les autos anticorps anti-muscles lisses sont rencontres dans :",
-        "propositions": [
-            "La cirrhose biliaire primitive",
-            "L'hépatite autoimmune de type I",
-            "L'hépatite autoimmune de type II",
-            "Colite",
-            "Myocardite"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Dans la maladie de Kahler, les géodes sont :",
-        "propositions": [
-            "Arrondie à limites nettes et à l'emporte pièce",
-            "Disséminées au CRANE et aux extrémités proximales du fémur et de l'humérus",
-            "Localisées préférentiellement sur les os des membres",
-            "Entourées d'une zone condensée",
-            "De contour irrégulier"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Quels sont les signes cliniques qui vous ont orienté a poser votre diagnostic :",
-        "propositions": [
-            "L'age du patient.",
-            "L'absence de pus.",
-            "L'effondrement du taux des immunoglobulines.",
-            "Les signes cliniques.",
-            "Les resultats du bilan initial."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Lors de La démarche diagnostique devant la suspicion d'un deficit immunitaire primitif on retrouve :",
-        "propositions": [
-            "L'orientation selon les signes cliniques d'alerte.",
-            "La réalisation d'examens biologiques d'orientation dits de 1ere intention.",
-            "La réalisation d'examens biologiques spécialisés dits de 2eme intention.",
-            "La confirmation du diagnostic se fait par technique de séquençage.",
-            "Toutes ces propositions sont justes."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le virus de l'immunodéficience humaine :",
-        "propositions": [
-            "Est un virus ARN.",
-            "Peut être transmis de la mère à l'enfant par le biais de l'allaitement.",
-            "Son corécepteur, le CCR5 au niveau du macrophage et CXCR4 au niveau des Ly T.",
-            "Peut infecter les cellules CD4- lorsqu'il est recouvert de complément.",
-            "Se lie à la molécule CD4 après interaction avec son corécepteur."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Dans la gammapathie monoclonale dite bénigne, on retrouve :",
-        "propositions": [
-            "La plasmocytose au myélogramme",
-            "L'hyperprotidémie avec rapport albumine / globuline < 1",
-            "Le pic monoclonal > 30g/l IgG ou > 25g/l IgA",
-            "Le taux d'immunoglobulines normales est abaissé",
-            "La protéinurie de Bence Jones est anormale"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les indications thérapeutiques des gammaglobulines humaines par voie parentérale, on retrouve:",
-        "propositions": [
-            "Le déficit immunitaire primitif",
-            "Les déficits sélectifs en IgA",
-            "Les morsures faciales par chien suspect",
-            "Les polyradiculonévrites aiguës",
-            "L'hypogammaglobulinémie physiologique et transitoire du nourrisson"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les complications du myélome, lesquelles sont dépendantes de l'Ig monoclonale :",
-        "propositions": [
-            "Les infections bactériennes",
-            "Allongement du temps de thrombine",
-            "Ostéolyse",
-            "Hypercalcémie",
-            "Amylose"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Au cours de l'infection par le VIH, la déplétion des lymphocytes T CD4+ est la conséquence de",
-        "propositions": [
-            "Leur élimination par le virus",
-            "Leur élimination par apoptose",
-            "Leur phagocytose par les macrophages",
-            "Leur élimination par cytotoxicité de type ADCC",
-            "Leur élimination par les cellules cytotoxiques"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Une réponse cytotoxique (T CD8+) au cours de l'infection par le VIH on retrouve :",
         "propositions": [
             "Est une réponse antivirale.",
@@ -2616,76 +1852,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Les Corécepteurs du VIH:",
-        "propositions": [
-            "Sont représentés par le CXCR4 (fusine) sur les lymphocytes T CD4.",
-            "Sont représentés par le CCR5 sur les macrophages.",
-            "Interagissent avec la glycoprotéine 120 du virus après sa liaison avec la molécule CD4.",
-            "Sont des molécules qui subissent un changement de conformation spatiale et cellulaire.",
-            "Ne sont pas indispensables à l'infection de la cellule par le virus."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Parmi les examens immunologiques de routine on retrouve :",
-        "propositions": [
-            "La numération formule sanguine.",
-            "Un taux de lymphocytes T CD4 > inférieur à 200/µl",
-            "Un taux d'immunoglobulines sériques inférieur à 30g/l",
-            "Le complément hémolytique total CH50.",
-            "Un taux de B2 microglobuline inférieur à 2mg/l"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le suivi immunologique de l'infection à VIH peut être réalisé par",
-        "propositions": [
-            "La numération des lymphocytes T CD4.",
-            "L'évaluation de l'immunité cellulaire combiné.",
-            "L'évaluation du rapport T CD4+/ T CD8+.",
-            "L'évaluation de la charge virale par le dosage d'ARN viral.",
-            "L'évaluation du nombre de copie d'ARN viral."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Devant ces données cliniques et bactériologiques quel est le premier diagnostic a évoquer :",
-        "propositions": [
-            "Une gastro-entérite aigüe a la prise du lait de vache contaminé.",
-            "Un déficit immunitaire humoral.",
-            "Des complications liées a l'hypogammaglobulinémie physiologique.",
-            "Un déficit immunitaire combiné.",
-            "L'agammaglobulinémie liée a l'X vue le sexe du patient."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Quels sont selon vous les premiers examens biologiques a demander a fin d'etayer le diagnostic:",
-        "propositions": [
-            "Une formule de numération sanguine.",
-            "Le sérotypage HLA par technique ELISA.",
-            "Les sérologies post vaccinales.",
-            "Un dosage pondéral des gammaglobulines par néphélémétrie laser.",
-            "Un immunophénotypage lymphocytaire."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les déficits immunitaires humoraux: (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Concernent tous les isotypes des immunoglobulines simultanément",
-            "Sont de révélation aussi précoce que les déficits immunitaires combinés sévères",
-            "Se caractérisent par des infections par des germes à développement extracellulaire",
-            "Se caractérisent par des infections par des germes à développement intracellulaire",
-            "L'agammaglobulinémie est le plus fréquent déficit dans ce groupe"
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Les cellules permissives à l'infection par le virus VIH sont: (Cocher la proposition EXACTE)",
         "propositions": [
             "Les lymphocytes T CD4+",
@@ -2702,17 +1868,6 @@
         ],
         "explanation": "L'évaluation et le typage d'un composant monoclonal nécessite: Une électrophorèse des protéines sériques... Un typage... Une électrophorèse des protéines urinaires... Un dosage des chaînes légères... (page 6/context)",
         "general_explanation": "Evaluating a monoclonal component involves detecting a spike/hypogammaglobulinemia via electrophoresis, typing the isotype, checking for Bence Jones protein in urine, and measuring the free light chain ratio. Option E is the 'inexact' choice because A-D are standard procedures.",
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les DICS (déficits immunitaires combinés sévères): (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Ont en commun une absence quasi-complète des Lymphocytes B.",
-            "La greffe des cellules souches hématopoïétiques constituent le seul traitement curatif.",
-            "Sont tous à transmission autosomique récessive.",
-            "Sont la conséquence d'anomalies génétiques touchant les étapes tardives de différenciation des Lymphocytes T.",
-            "Les manifestations cliniques apparaissent après l'âge de 06 mois."
-        ],
         "source": "Blida 20xx"
     },
     {
@@ -2737,54 +1892,6 @@
         ],
         "general_explanation": [
             "Bence Jones proteins are monoclonal free light chains (kappa or lambda) found in the urine of patients with plasma cell dyscrasias like Multiple Myeloma."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les signes d'appels d'un déficit immunitaire sont: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Des infections persistantes et récidivantes.",
-            "Une mauvaise réponse aux traitements antibiotiques.",
-            "Retard du développement staturo-pondéral.",
-            "Des signes d'auto-immunité à un jeune âge.",
-            "Des signes en relation avec l'état hypersensibilité type II."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les associations suivantes entres les facteurs génétiques et des pathologies sont très fréquentes: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "HLA DR4, DR1 et la Polyarthrite rhumatoïde",
-            "HLA B27 et la Spondyle arthrite ankylosante: SPA",
-            "HLA B51 et la Maladie de Behcet",
-            "HLA DQ2, DQ4 et la Maladie Cœliaque",
-            "HLA DR11 et la Sclérodermie"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La Cholangite Biliaire Primitive (CBP): (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est appelée aussi cirrhose biliaire primitive",
-            "Touche surtout les femmes entre 35 et 60 ans",
-            "C'est une hépatopathie chronique auto-immune entraînant une destruction progressive des petites voies biliaires intra-hépatiques",
-            "Une augmentation de la phosphatase alcaline",
-            "L'Auto anticorps anti mitochondries de type 1 (anti pyruvate déshydrogénase : PDH) est le plus spécifique de la maladie"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les hépatites auto immunes de type I sont caractérisées par: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Touchent le plus souvent les femmes adultes",
-            "La présence de l'Auto anticorps anti actine",
-            "La présence de l'Auto anticorps anti LC1 (liver cytosol 1)",
-            "La présence de l'Auto anticorps anti AML (Anticorps Anti-Muscle Lisse)",
-            "La présence de l'Auto anticorps anti SLA (Soluble Liver Antigen)."
         ],
         "source": "Blida 20xx"
     },
@@ -2827,39 +1934,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "La polyarthrite rhumatoïde (PR): (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est la plus fréquente des rhumatismes inflammatoires, touche 0,5 à 1 % de la population).",
-            "Touche les femmes et les hommes sans prédominance de sexe.",
-            "Est une maladie inflammatoire aboutissant à la déformation et à la destruction des articulations (la synoviale).",
-            "Débuté aux petites articulations (main, pied, poignet), d'autres articulations sont touchées par la suite",
-            "Est caractérisée par des manifestations extra articulaires comme la fibrose pulmonaire secondaire à l'atteinte pulmonaire interstitielle et des nodules sous cutanées"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Ces arguments soutiennent l'implication des facteurs environnementaux dans le développement des maladies auto-immunes sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Moins de 50% de concordance de la maladie chez les jumeaux monozygotes.",
-            "Résolution ou amélioration de la maladie chez un individu après le retrait de l'agent suspect.",
-            "Récidive ou aggravation de la maladie chez un individu après la ré-exposition à l'agent suspect.",
-            "Le risque de développer une maladie chez un apparenté du 1er degré d'un patient atteint d'une MAI est d'environ 10 fois supérieur à celui de la population générale.",
-            "Les infections virales sont souvent incriminées"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les infections favorisent l'apparition des maladies auto-immunes par les mécanismes suivants : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Les infections virales augmentent l'expression de CMH par la production d'IFN, donc possibilité de présentation des peptides sous dominant.",
-            "mimétisme moléculaire : entre antigène d'un micro-organisme et antigène du soi",
-            "les micro-organismes peuvent induire des co signaux (cytokines, molécules d'adhésion) nécessaires à l'activation des clones auto réactifs.",
-            "Les infections et l'antibiothérapie peuvent provoquer l'augmentation de la perméabilité intestinale qui peut être à l'origine de la rupture de tolérance.",
-            "Favorisent l'apoptose des kératinocytes et la production en excès de corps apoptotiques"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "La vit D joue un rôle important dans la tolérance vis-à-vis des antigènes du soi et dans la régulation du système immunitaire par : (Cocher la proposition INEXACTE)",
         "propositions": [
             "Confère de façon stable et durable un profil tolérogène pour les cellules dendritiques myéloïdes mDC.",
@@ -2876,17 +1950,6 @@
         ],
         "explanation": "Les DICS (déficits immunitaires combinés sévères) : Ont en commun une absence quasi-complète des Lymphocytes T... de révélations précoces... (page 9/context)",
         "general_explanation": "SCID (DICS) is characterized by severe early-onset infections (usually before 6 months of age). Stating that they can be 'late' depending on the cells affected is incorrect; they are always early-onset medical emergencies.",
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les auto anticorps pathogènes peuvent êtres des : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Auto anticorps opsonisants par activation du système du complément",
-            "Auto anticorps anti récepteurs bloquants comme dans la maladie de Basedow",
-            "Auto anticorps anti antigènes solubles provoquant une hyperglycémie",
-            "Auto anticorps anti facteurs intrinsèques anémies de Biermer",
-            "Auto anticorps formant des complexes immuns qui peuvent se déposés au niveau des vaisseaux"
-        ],
         "source": "Blida 20xx"
     },
     {
@@ -2915,28 +1978,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "L'hypersensibilité de type II : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est une réaction de type cytotoxique.",
-            "S'accompagne par la production normale d'IgE.",
-            "Fait intervenir des antigènes membranaires comme les antigènes HLA.",
-            "Fait intervenir des antigènes du système ABO.",
-            "Fait intervenir les cellules TCD4 TH17."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La désensibilisation: (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Consiste à administrer des doses progressivement décroissantes d'une préparation allergénique",
-            "Est indiquée en cas d'asthme sévère",
-            "Est indiquée en cas de grossesse",
-            "Est indiquée en cas d'allergie aux venins d'hyménoptères",
-            "Est indiquée en cas de pneumonies allergiques extrinsèques"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Lors des états d'hypersensibilité de type III : (Cocher la proposition EXACTE)",
         "propositions": [
             "Plus les complexes immuns sont petits plus ils sont faciles à éliminer.",
@@ -2953,17 +1994,6 @@
         ],
         "explanation": "L'identification du composant monoclonal nécessite : Électrophorèse des protéines (recherche de bande étroite), Typage, recherche de protéine de Bence Jones, et calcul du rapport kappa/lambda. (page 6)",
         "general_explanation": "This question asks for the incorrect statement regarding the evaluation of a monoclonal component. Since A, B, C, and D represent the established diagnostic steps, 'Aucune réponse n'est juste' is the required answer.",
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'identification des allergènes en cause lors d'un phénomène atopique est assurée par: (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Test de libération des anaphylatoxines par les lymphocytes TH2.",
-            "Dosage des IgE totales dans les secrétions nasales et bronchiques.",
-            "Dosages de l'IL4.",
-            "Dosages des récepteurs de haute affinité des IgE spécifiques.",
-            "Test de dégranulation des basophiles humains."
-        ],
         "source": "Blida 20xx"
     },
     {
@@ -3017,28 +2047,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "La polyarthrite rhumatoïde (PR) est caractérisée : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Par une raideur matinale, au minimum de trois articulations.",
-            "Par des arthrites et des arthralgies surtout le matin",
-            "Par des lésions qui sont souvent asymétriques.",
-            "Par la présence des Facteurs Rhumatoïdes (FR) dans 50 à 70% des cas souvent d'isotype IgM, parfois IgG ou IgA.",
-            "Par la présence de l'auto-anticorps anti-peptides cycliques citrullinés (anti CCP) qui est un marqueur immunologique a visée diagnostique (spécificité = 95%) et pronostique (PR précoce et PR érosive)."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le syndrome des anti phospholipides : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Peut être primaire ou secondaire au lupus",
-            "Se manifeste par des thromboses vasculaires, des avortements à répétition.",
-            "La présence des auto anti corps anti cardiolipines",
-            "La présence des auto anti β2 glycoprotéine 1",
-            "Par une fausse sérologie syphilitique : (TPHA positive, VDRL négative)"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "L'hypersensibilité de type II : (Cocher la proposition EXACTE)",
         "propositions": [
             "Fait intervenir des anticorps d'isotypes IgA et IgD.",
@@ -3064,50 +2072,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Concernant la réaction d'hypersensibilité de type III : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "L'activation du système du complément est impliqué dans la survenu des lésions tissulaires.",
-            "Les allo-anticorps anti ABO sont souvent incriminés dans la formation des CIC.",
-            "Les bifurcations vasculaires sont fréquemment le siège de dépôts des complexes immuns pathogènes.",
-            "L'endothélium vasculaire glomérulaire est fréquemment le siège de dépôts des complexes immuns pathogènes",
-            "La polyarthrite rhumatoïde en est un exemple"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'hypersensibilité de type IV : (Cocher la réponse EXACTE)",
-        "propositions": [
-            "Apparait 24 à 48 heures après le second contact avec l'antigène.",
-            "Fait intervenir les lymphocytes B spécifiques de l'haptène.",
-            "Met en jeu les lymphocytes NK spécifiques de l'antigène.",
-            "Se caractérise par la présence d'infiltrat cellulaire formé essentiellement de cellules dendritiques.",
-            "Peut être explorée par la recherche des IgE spécifiques de l'haptène."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant la réponse immunitaire au cours de l'infection par le virus VIH : (Cocher la proposition EXACTE).",
-        "propositions": [
-            "Les anticorps anti VIH sont protecteurs",
-            "Les lymphocytes T CD8 permettent de contrôler la réplication virale",
-            "La réponse anticorps est absente au cours de la primo-infection",
-            "Il n'y a pas de réponse lymphocytaire T CD4+ antiVIH",
-            "La réponse T CD8 n'apparait qu'à la phase de SIDA"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les mécanismes d'échappement des parasites aux réponses immunes : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Dissimulation et modification séquentielle des antigènes",
-            "Acquisition d'antigènes de l'hôte",
-            "Altérations de la présentation de l'antigène.",
-            "Production de facteurs supprimant la prolifération des lymphocytes T tel que le TGFB et l'Il10",
-            "Toutes les réponses sont justes"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Concernant l'immunité anti bactérienne : (Cocher la proposition INEXACTE)",
         "propositions": [
             "Les déficits en anticorps, en complément, et en PNN sont à l'origine d'infection par des bactéries pyogènes à multiplication extra cellulaire.",
@@ -3129,86 +2093,6 @@
         ],
         "general_explanation": [
             "L'immunothérapie (désensibilisation) utilise des doses croissantes d'allergène et est bien indiquée pour les allergies aux venins d'insectes (hyménoptères)."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'évaluation et le typage d'un composant monoclonal nécessite: (Cocher la proposition INEXACTE).",
-        "propositions": [
-            "Une électrophorèse des protéines sériques à la recherche d'une bande étroite ou une hypogammaglobulinémie.",
-            "Un typage du composant monoclonal par les techniques d'identification",
-            "Une électrophorèse des protéines urinaires à la recherche d'une protéine de Bence Jones",
-            "Un dosage des chaînes légères libres sériques et le calcul du rapport kappa lambda",
-            "Aucune réponse n'est juste"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les signes suivants peuvent être révélateurs d'un myélome multiple : (Cocher la proposition INEXACTE):",
-        "propositions": [
-            "La protéinurie.",
-            "L'anémie.",
-            "L'hypogammaglobulinémie.",
-            "L'hypocalcémie",
-            "Les fractures spontanées."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les protéines de Bence Jones (PBJ) sont : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Des molécules d'immunoglobulines complètes de structure anormale.",
-            "Des chaînes lourdes d'immunoglobulines d'un seul type, sériques ou urinaires.",
-            "Des protéines dont le taux sérique est augmenté dans les états inflammatoires.",
-            "Des chaînes légères kappa ou lambda monoclonales détectées dans les urines.",
-            "Un constituant des antigènes d'histocompatibilité de classe I."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le myélome multiple :(Cocher la proposition EXACTE)",
-        "propositions": [
-            "Se traduit généralement par la présence d'un composant oligo-monoclonal à l'électrophorèse des protéines sériques.",
-            "L'absence des protéines de Bence Jones élimine le diagnostic.",
-            "Se définit comme une prolifération plasmocytaire maligne au niveau de la rate.",
-            "Touche généralement les sujets de sexe féminin, âgés de plus de 25 ans.",
-            "Se manifeste souvent par des infections à répétition."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les déficits immunitaires combinés sévères DICS sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "De révélations précoces vues les manifestations cliniques patentes",
-            "Une BCGite est souvent rencontrée après vaccination",
-            "Concernent l'immunité cellulaire et humorale",
-            "Soit précoces soit tardifs selon les cellules touchées (T, B, NK)",
-            "Une consanguinité ainsi qu'un défaut génétique prédisposant sont fortement impliqués"
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les déficits immunitaires humoraux : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Concernent tous les isotypes des immunoglobulines simultanément",
-            "Sont de révélation aussi précoce que les déficits immunitaires combinés sévères",
-            "Se caractérisent par des infections par des germes à développement extracellulaire",
-            "Se caractérisent par des infections par des germes à développement intracellulaire",
-            "L'agammaglobulinémie est le plus fréquent déficit dans ce groupe"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les cellules permissives à l'infection par le virus VIH sont : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Les lymphocytes T CD4+",
-            "Les macrophages",
-            "Les PNN",
-            "Les cellules dendritiques"
         ],
         "source": "Blida 20xx"
     },
@@ -3238,58 +2122,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "L'agammaglobulinémie : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est un déficit souvent lié au chromosome X",
-            "Peut-être autosomique ou gonosomique selon la molécule non exprimé",
-            "Se caractérise par un défaut d'expression du CD40L sur les Lymphocytes B",
-            "Le taux des immunoglobulines est effondré ainsi que le taux les Lymphocytes B circulant",
-            "Se caractérise par un défaut d'expression de BTK dans 85%"
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les signes d'appels d'un déficit immunitaire sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Des infections persistantes et récidivantes.",
-            "Une mauvaise réponse aux traitements antibiotiques.",
-            "Retard du développement staturo-pondéral.",
-            "Des signes d'auto-immunité à un jeune âge.",
-            "Des signes en relation avec l'état hypersensibilité type II."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les associations suivantes entres les facteurs génétiques et des pathologies sont très fréquentes : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "HLA DR4, DR1 et la Polyarthrite rhumatoïde",
-            "HLA B27 et la Spondyle arthrite ankylosante: SPA",
-            "HLA B51 et la Maladie de Behcet",
-            "HLA DQ2, DQ4 et la Maladie Cœliaque",
-            "HLA DR11 et la Sclérodermie"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'hypersensibilité de type II : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est une réaction de type cytotoxique.",
-            "S'accompagne par la production normale d'IgE.",
-            "Fait intervenir des antigènes membranaires comme les antigènes HLA.",
-            "Fait intervenir des antigènes du système ABO.",
-            "Fait intervenir les cellules TCD4 TH17."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "La désensibilisation : (Cocher la proposition EXACTE)",
         "propositions": [
             "Consiste à administrer des doses progressivement décroissantes d'une préparation allergénique",
@@ -3311,17 +2143,6 @@
         ],
         "general_explanation": [
             "La PR, le dépôt dans les glomérules et les zones de turbulences sont caractéristiques du type III. L'implication des allo-anticorps ABO caractérise l'hypersensibilité de type II."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Lors des états d'hypersensibilité de type III : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Plus les complexes immuns sont petits plus ils sont faciles à éliminer",
-            "Les complexes immuns formés d'anticorps d'isotype IgG sont plus difficile à éliminer que les complexes immuns à anticorps d'isotype IgA.",
-            "Les globules rouges participent activement dans l'épuration des auto-anticorps solubles.",
-            "Le déficit en phagocytose favorise l'accumulation des complexes immuns.",
-            "Le dépôt des complexes immuns ne dépend pas de la perméabilité vasculaire."
         ],
         "source": "Blida 20xx"
     },
@@ -3351,28 +2172,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Concernant l'hypersensibilité granulomateuse : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Elle est due à la persistance de l'antigène au sein des macrophages.",
-            "Aboutit à la formation de granulomes à cellules myéloïdes.",
-            "Les cellules NK jouent un rôle important dans l'élimination des complexes immuns.",
-            "Fait intervenir des cytokines comme l'IL-4 et l'IL-13.",
-            "Peut-être l'évolution d'une lésion secondaire à hypersensibilité type I"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Lors de la prise en charge d'un asthme allergique : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Les tests cutanés sont souvent indispensables pour identifier l'allergène en cause.",
-            "La recherche des IgE spécifiques dans le sang est un examen sans grande importance.",
-            "La désensibilisation constitue le principal traitement curatif disponible.",
-            "L'éviction de l'allergène suffit généralement pour traiter les crises.",
-            "La mise en évidence d'une hyper-éosinophilie est pathognomonique de l'origine allergique de cet asthme."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "L'hypersensibilité de type II : (Cocher la proposition EXACTE)",
         "propositions": [
             "Fait intervenir des anticorps d'isotypes IgA et IgD.",
@@ -3398,105 +2197,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "Concernant la réaction d'hypersensibilité de type III : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "L'activation du système du complément est impliqué dans la survenu des lésions tissulaires.",
-            "Les allo-anticorps anti ABO sont souvent incriminés dans la formation des CIC.",
-            "Les bifurcations vasculaires sont fréquemment le siège de dépôts des complexes immuns pathogènes.",
-            "L'endothélium vasculaire glomérulaire est fréquemment le siège de dépôts des complexes immuns pathogènes",
-            "La polyarthrite rhumatoïde en est un exemple"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'hypersensibilité de type IV : (Cocher la réponse EXACTE)",
-        "propositions": [
-            "Apparaît 24 à 48 heures après le second contact avec l'antigène.",
-            "Fait intervenir les lymphocytes B spécifiques de l'haptène.",
-            "Met en jeu les lymphocytes NK spécifiques de l'antigène.",
-            "Se caractérise par la présence d'infiltrat cellulaire formé essentiellement de cellules dendritiques.",
-            "Peut être explorée par la recherche des IgE spécifiques de l'haptène."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant la réponse immunitaire au cours de l'infection par le virus VIH : (Cocher la proposition EXACTE).",
-        "propositions": [
-            "Les anticorps anti VIH sont protecteurs",
-            "Les lymphocytes T CD8 permettent de contrôler la réplication virale",
-            "La réponse anticorps est absente au cours de laprimo-infection",
-            "Il n'y a pas de réponse lymphocytaire T CD4+ antiVIH",
-            "La réponse T CD8 n'apparaît qu'à la phase de SIDA"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les mécanismes d'échappement des parasites aux réponses immunes : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Dissimulation et modification séquentielle des antigènes",
-            "Acquisition d'antigènes de l'hôte",
-            "Altérations de la présentation de l'antigène.",
-            "Production de facteurs supprimant la prolifération des lymphocytes T tel que le TGFB et l'IL10",
-            "Toutes les réponses sont justes"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Concernant l'immunité anti bactérienne : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Les déficits en anticorps, en complément, et en PNN sont à l'origine d'infection par des bactéries pyogènes à multiplication extra cellulaire.",
-            "Les déficits portant sur les lymp T sont caractérisés par des infections à germes intra cellulaires.",
-            "Le système du complément joue un rôle très important dans l'immunité anti bactérienne par chimiotactisme des polynucléaires neutrophiles.",
-            "Les IgA sécrétoires assurent la protection au niveau sanguin.",
-            "Après activation du complément par voie des lectines, cette activation assure l'opsonisation, la phagocytose et la formation du MAC."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "L'évaluation et le typage d'un composant monoclonal nécessite: (Cocher la proposition INEXACTE).",
-        "propositions": [
-            "Une électrophorèse des protéines sériques à la recherche d'une bande étroite ou une hypogammaglobulinémie.",
-            "Un typage du composant monoclonal par les techniques d'identification",
-            "Une électrophorèse des protéines urinaires à la recherche d'une protéine de Bence Jones",
-            "Un dosage des chaines légères libres sériques et le calcul du rapport kappa/lambda",
-            "Aucune réponse n'est juste"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les signes suivants peuvent être révélateurs d'un myélome multiple : (Cocher la proposition INEXACTE):",
-        "propositions": [
-            "La protéinurie.",
-            "L'anémie.",
-            "L'hypogammaglobulinémie.",
-            "L'hypocalcémie",
-            "Les fractures spontanées."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les protéines de Bence Jones (PBJ) sont : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Des molécules d'immunoglobulines complètes de structure anormale.",
-            "Des chaînes lourdes d'immunoglobulines libres d'un seul type, sériques ou urinaires.",
-            "Des protéines dont le taux sérique est augmenté dans les états inflammatoires.",
-            "Des chaînes légères kappa ou lambda monoclonales détectées dans les urines.",
-            "Un constituant des antigènes d'histocompatibilité de classe I."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le myélome multiple :(Cocher la proposition EXACTE)",
-        "propositions": [
-            "Se traduit généralement par la présence d'un composant oligo-monoclonal à l'électrophorèse des protéines sériques.",
-            "L'absence des protéines de Bence Jones élimine le diagnostic.",
-            "Se définit comme une prolifération plasmocytaire maligne au niveau de la rate.",
-            "Touche généralement les sujets de sexe féminin, âgés de plus de 25 ans.",
-            "Se manifeste souvent par des infections à répétition."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Les déficits immunitaires combinés sévères DICS sont : (Cocher la proposition INEXACTE)",
         "propositions": [
             "De révélations précoces vues les manifestations cliniques patentes",
@@ -3513,83 +2213,6 @@
         ],
         "explanation": "Déficits immunitaires combinés sévères DICS... De révélations précoces...(page 16/30 context).",
         "general_explanation": "DICS (SCID) are the most severe and earliest presenting immunodeficiencies, typically appearing before age 6 months.",
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Ces arguments soutiennent l'implication des facteurs environnementaux dans le développement des maladies auto-immunes sont : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Moins de 50% de concordance de la maladie chez les jumeaux monozygotes.",
-            "Résolution ou amélioration de la maladie chez un individu après le retrait de l'agent suspect.",
-            "Récidive ou aggravation de la maladie chez un individu après la ré-exposition à l'agent suspect.",
-            "Le risque de développer une maladie chez un apparenté du 1er degré d'un patient atteint d'une MAI est d'environ 10 fois supérieur à celui de la population générale.",
-            "Les infections virales sont souvent incriminées"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les infections favorisent l'apparition des maladies auto-immunes par les mécanismes suivants : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Les infections virales augmentent l'expression de CMH par la production d'IFN, donc possibilité de présentation des peptides sous dominant.",
-            "mimétisme moléculaire : entre antigène d'un micro-organisme et antigène du soi",
-            "les micro-organismes peuvent induire des co signaux (cytokines, molécules d'adhésion) nécessaires à l'activation des clones auto réactifs.",
-            "Les infections et l'antibiothérapie peuvent provoquer l'augmentation de la perméabilité intestinale qui peut être a l'origine de la rupture de tolérance.",
-            "Favorisent l'apoptose des kératinocytes et la production en excès de corps apoptotiques"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La vit D joue un rôle important dans la tolérance vis-à-vis des antigènes du soi et dans la régulation du système immunitaire par : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Confère de façon stable et durable un profil tolérogène pour les cellules dendritiques myéloïdes mDC.",
-            "La diminution de synthèse d'IL12 avec une augmentation de production d'IL10.",
-            "Le blocage de l'apoptose des Ly T auto réactifs.",
-            "La différenciation des T naïfs en T reg.",
-            "Le blocage de la différenciation en Ly Th1 et Th17."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les auto anticorps pathogènes peuvent êtres des : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Auto anticorps opsonisants par activation du système du complément",
-            "Auto anticorps anti récepteurs bloquants comme dans la maladie de Basedow",
-            "Auto anticorps anti antigènes solubles provoquant une hyperglycémie",
-            "Auto anticorps anti facteurs intrinsèques→ anémies de Biermer",
-            "Auto anticorps formant des complexes immuns qui peuvent se déposés au niveau des vaisseaux"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La Thyroïdite auto immune d'Hashimoto est caractérisée par : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Touchent surtout les femmes jeunes.",
-            "Peut être associée à d'autres maladies auto-immunes",
-            "La présence d'auto-anticorps anti récepteurs de la TSH",
-            "La présence d'auto-anticorps anti thyroglobuline",
-            "La présence d'auto-anticorps anti thyropéroxydase"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La Cholangite Biliaire Primitive (CBP) : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est appelée aussi cirrhose biliaire primitive",
-            "Touche surtout les femmes entre 35 et 60 ans",
-            "C'est une hépatopathie chronique auto-immune entraînant une destruction progressive des petites voies biliaires intra-hépatiques",
-            "Une augmentation de la phosphatase alcaline",
-            "L'Auto anticorps anti mitochondries de type I (anti pyruvate déshydrogénase : PDH) est le plus spécifique de la maladie"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Les hépatites auto immunes de type I sont caractérisées par: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Touchent le plus souvent les femmes adultes",
-            "La présence de l'Auto anticorps anti actine",
-            "La présence de l'Auto anticorps anti LC1 (liver cytosol 1).",
-            "La présence de l'Auto anticorps anti AML (Anticorps Anti-Muscle Lisse).",
-            "La présence de l'Auto anticorps anti SLA (Soluble Liver Antigen)."
-        ],
         "source": "Blida 20xx"
     },
     {
@@ -3631,39 +2254,6 @@
         "source": "Blida 20xx"
     },
     {
-        "question": "La polyarthrite rhumatoïde (PR): (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Est la plus fréquente des rhumatismes inflammatoires, touche 0,5 à 1 % de la population).",
-            "Touche les femmes et les hommes sans prédominance de sexe.",
-            "Est une maladie inflammatoire aboutissant à la déformation et à la destruction des articulations (la synoviale).",
-            "Débuté aux petites articulations (main, pied, poignet), d'autres articulations sont touchées par la suite",
-            "Est caractérisée par des manifestations extra articulaires comme la fibrose pulmonaire secondaire à l'atteinte pulmonaire interstitielle et des nodules sous cutanées"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "La polyarthrite rhumatoïde (PR) est caractérisée : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Par une raideur matinale, au minimum de trois articulations.",
-            "Par des arthrites et des arthralgies surtout le matin",
-            "Par des lésions qui sont souvent asymétriques.",
-            "Par la présence des Facteurs Rhumatoïdes (FR) dans 50 à 70% des cas souvent d'isotype IgM, parfois IgG ou IgA.",
-            "Par la présence de l'auto-anticorps anti-peptides cycliques citrullinés (anti CCP) qui est un marqueur immunologique a visée diagnostique (spécificité = 95%) et pronostique (PR précoce et PR érosive)."
-        ],
-        "source": "Blida 20xx"
-    },
-    {
-        "question": "Le syndrome des anti phospholipides : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Peut être primaire ou secondaire au lupus",
-            "Se manifeste par des thromboses vasculaires, des avortements à répétition.",
-            "la présence des auto anti corps anti cardiolipines",
-            "La présence des auto anti β2 glycoprotéine 1",
-            "Par une fausse sérologie syphilitique : (TPHA positive, VDRL négative)"
-        ],
-        "source": "Blida 20xx"
-    },
-    {
         "question": "Dans la transplantation rénale : (cocher la proposition EXACTE)",
         "propositions": [
             "L'incompatibilité rhésus ne contre indique pas la transplantation.",
@@ -3690,76 +2280,6 @@
         ],
         "tags": [
             "Immunologie de la transplantation et la greffe"
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Le rôle des molécules de classe I du CMH «Complexe Majeur d'Histocompatibilité» est :(Cocher la proposition INEXACTE)",
-        "propositions": [
-            "La présentation des antigènes aux lymphocytes T CD8",
-            "La régulation de l'activité cytotoxique des cellules NK",
-            "La sélection intra thymique des lymphocytes T",
-            "La Stimulation de la réponse immunitaire innée",
-            "La Liaison des peptides de 9 à 11 acides aminés"
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Les Lymphocytes T: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Sont Les effecteurs de l'immunité adaptative à médiation cellulaire",
-            "Sont Majoritaires par rapport aux lymphocytes circulants.",
-            "Sécrètent des cytokines de type TH1, TH2 et TH17.",
-            "Peuplent les organes lymphoïdes secondaires où ils restent localisés",
-            "Possèdent un récepteur pour le virus d'Epstein-Barr"
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Les récepteurs de reconnaissance d'Ag des lymphocytes T ou TCR : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Sont produits sous forme sécrétée",
-            "Ne sont pas soumis à la commutation isotypique",
-            "Sont constitués de la chaîne alpha et beta qui participent toutes les deux à la transduction des signaux d'activation via la molécule B7.",
-            "Ne sont pas concernés par la maturation d'affinité",
-            "Sont associés au CD3 après activation par le CMH."
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Les lymphocytes B : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Possèdent des récepteurs membranaires identiques à des anticorps.",
-            "Forment des clones, chacun d'eux étant spécifique d'un déterminant antigénique.",
-            "N'apparaissent qu'après une réponse secondaire.",
-            "Libèrent en permanence des anticorps.",
-            "Aucune réponse juste"
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "L'activation du complément a pour effet(s) biologique (s) possible(s): (Cocher la proposition EXACTE)",
-        "propositions": [
-            "L'opsonisation des bactéries.",
-            "La lyse des virus.",
-            "La solubilisation des complexes immuns.",
-            "Génération de l'inflammation par les anaphylatoxines.",
-            "Toutes les réponses sont justes."
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Lors de l'activation du complément par la voie alterne: (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "La séquence de C5 à C9 est identique à celle de la voie classique.",
-            "Le dosage de la fraction C4 permet de distinguer cette activation de l'activation par la voie classique.",
-            "Le clivage de C3 est toujours induit.",
-            "Le clivage du facteur B conduit à la formation de la C3 convertase.",
-            "La formation d'une C 5convertase amplifie cette voie d'activation."
         ],
         "source": "Blida 2020"
     },
@@ -3867,39 +2387,6 @@
         ],
         "general_explanation": [
             "Les antihistaminiques agissent en bloquant les récepteurs tissulaires de l'histamine, et non en inhibant sa libération par le mastocyte."
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Les molécules HLA de classe I : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Sont exprimées par les lymphocytes T au repos.",
-            "Présentent le peptide immunogène endogène aux lymphocytes T CD8.",
-            "La chaine β est extracellulaire.",
-            "Les domaines α1 et α2 de la chaine α sont polymorphes.",
-            "Les gènes de la chaine β sont localisés surtout au niveau du chromosome 06."
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "Les anticorps : (Cocher la proposition EXACTE)",
-        "propositions": [
-            "Sont produits par certains groupes d'agents pathogènes",
-            "Sont sécrétés par les lymphocytes B.",
-            "Neutralisent l'antigène.",
-            "Sont des glycoprotéines plasmatiques",
-            "Induisent la fabrication d'antigènes"
-        ],
-        "source": "Blida 2020"
-    },
-    {
-        "question": "La portion Fab des IgM est le support d'une des propriétés fonctionnelles suivantes : (Cocher la proposition EXACTE).",
-        "propositions": [
-            "La reconnaissance de l'antigène",
-            "La fixation du complément",
-            "La liaison aux cellules phagocytaires",
-            "L'activation des mastocytes",
-            "Le transfert placentaire."
         ],
         "source": "Blida 2020"
     },
@@ -4089,17 +2576,6 @@
         ],
         "explanation": "L'électrophorèse est la migration de particules sous l'influence d'un champ électrique... dans l'électrophorèse classique, les protéines se séparent selon... leur poids moléculaire [et] leur charge électrique. (page 3)",
         "general_explanation": "Electrophoresis is a physical separation method based on charge and size, not an immunoprécipitation technique (which requires specific antibody-antigen interaction to form a precipitate).",
-        "source": "Blida 2018"
-    },
-    {
-        "question": "Lors de l'interaction d'une bactérie avec le système immunitaire d'un individu donné : (Indiquer la réponse INEXACTE)",
-        "propositions": [
-            "L'immunité innée est incontournable dans le contrôle de l'infection.",
-            "Des effets biologiques résultent de la production de médiateurs issus de l'activation de nombreux systèmes dont celui de la coagulation.",
-            "Les mécanismes d'hypersensibilité retardée agissent essentiellement contre les germes à multiplication intracellulaire.",
-            "L'activation des macrophages lors d'une réponse de type TH1 est essentielle lors de l'inefficacité de l'immunité humorale.",
-            "Toutes les propositions sont inexactes."
-        ],
         "source": "Blida 2018"
     },
     {
@@ -4440,39 +2916,6 @@
         "source": "Blida 2018"
     },
     {
-        "question": "Lors des états d'hypersensibilité de type III : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Plus les complexes immuns sont grands plus ils sont faciles a éliminer.",
-            "Les complexes immuns formés d'anticorps d'isotype IgG sont plus difficile a éliminer que les complexes immuns a anticorps d'isotype IgA.",
-            "L'épuration des complexes immuns se fait essentiellement par les GR.",
-            "Le déficit en phagocytose favorise l'accumulation des complexes immuns.",
-            "Le dépôt des complexes immuns dépend de la perméabilité vasculaire."
-        ],
-        "source": "Blida 2018"
-    },
-    {
-        "question": "Dans les états d'hypersensibilité de type III on peut classer : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Le lupus érythémateux disséminé.",
-            "L'endocardite infectieuse.",
-            "La maladie du poumon de fermier.",
-            "L'allergie aux protéines de lait de vache.",
-            "Le paludisme et les hépatites virales B,C."
-        ],
-        "source": "Blida 2018"
-    },
-    {
-        "question": "Parmi les mécanismes d'échappement du système immunitaire aux tumeurs, on retrouve : (Cocher la proposition INEXACTE)",
-        "propositions": [
-            "Le recouvrement des antigènes tumoraux par des produits du système de coagulation.",
-            "La production des cellules tumorales de molécules immunosuppressives telles le TGFβ, IL10.",
-            "Une croissance tumorale lente.",
-            "L'arrêt de la synthèse de l'antigène tumoral.",
-            "La modulation antigénique."
-        ],
-        "source": "Blida 2018"
-    },
-    {
         "question": "Parmi les techniques d'immuno précipitation quantitatives en milieu gélifié on retrouve : (Cocher la proposition EXACTE)",
         "propositions": [
             "L'immunodiffusion double.",
@@ -4667,21 +3110,6 @@
         "general_explanation": [
             "La lésion caséeuse de la tuberculose pulmonaire est un exemple classique d'hypersensibilité retardée granulomateuse."
         ],
-        "source": "Blida 2019"
-    },
-    {
-        "question": "Les réactions immunitaires suivantes peuvent être transmises à un receveur par les Lymphocytes du donneur syngénique immunisé, mais pas par son sérum : (Indiquer la réponse EXACTE)",
-        "propositions": [
-            "Réaction d'Arthus.",
-            "Résistance acquise vis-à-vis d'infections à bactéries intracellulaires.",
-            "Anaphylaxie cutanée passive.",
-            "Hypersensibilité de contact au DNCB.",
-            "Hypersensibilité tuberculinique."
-        ],
-        "tags": [],
-        "correct_indexes": [],
-        "explanation": [],
-        "general_explanation": [],
         "source": "Blida 2019"
     },
     {
@@ -5789,39 +4217,6 @@
         "source": "Blida 2025"
     },
     {
-        "question": "La maladie sérique aigue :(Cochez la ou les réponses EXACTES)",
-        "propositions": [
-            "Est caractérisée par la présence de lésions irréversibles localisées aux articulations.",
-            "Est liée au dépôt des complexes immuns dans la synoviale, favorisé par le complément.",
-            "Est induite par un Ag sensibilisant présent en excès par rapport à l'anticorps.",
-            "S'exprime par des lésions observées autour du douzième jour après l'introduction de l'Ag.",
-            "Se distingue de la réaction d'ARTHUS par la présence d'une hypercomplémentémie."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les conditions expérimentales suivantes favorisent le développement de la réaction d'ARTHUS :(Cochez la ou les réponses EXACTES)",
-        "propositions": [
-            "L'injection d'une dose unique de l'Ag par la voie intraveineuse (IV).",
-            "L'injection de doses multiples de l'Ag par la voie IV + 1 dose par la voie sous cutané (S/C).",
-            "La sensibilisation par un Ag xéno génique + adjuvant complet de FREUND (ACF).",
-            "L'inoculation répétée, de la solution antigénique par la voie S/C.",
-            "L'inoculation répétée d'un xéno anticorps par la voie IV."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "un état d'hypersensibilité",
-        "propositions": [
-            "Est une réponse immune adaptative",
-            "Est une réponse immune innée",
-            "Nécessite un contact antérieur avec l'antigène",
-            "Concerne uniquement les allergènes",
-            "Concerne uniquement les autoantigènes"
-        ],
-        "source": "Blida 2025"
-    },
-    {
         "question": "un état d'hypersensibilité de type IV",
         "propositions": [
             "Est une réponse cellulaire",
@@ -5977,17 +4372,6 @@
         ],
         "general_explanation": [
             "Les anticorps agissent via les IgA sécrétoires au niveau des muqueuses, l'opsonisation favorisant la phagocytose, l'activation du complément par la voie classique, et l'ADCC avec les cellules NK."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les récepteurs de surface PRR :",
-        "propositions": [
-            "Éduquée à reconnaitre les molécules qui sont uniques aux agents pathogènes.",
-            "Les récepteurs pour de telles molécules sont codés dans l'ADN germinal",
-            "Reconnaissance spécifique",
-            "La spécificité de reconnaissance des PRRs est fixe",
-            "Incluent une famille de récepteurs : les Toll-like receptors (TLR)"
         ],
         "source": "Blida 2025"
     },
@@ -6221,39 +4605,6 @@
         "source": "Blida 2025"
     },
     {
-        "question": "Le CCR5",
-        "propositions": [
-            "Est le co-récepteur du VIH au nivean des macrophages.",
-            "Est le co-récepteur du VIH au niveau des cellules dendritiques.",
-            "Est le co-récepteur du VIH au nivean des LT naïfs.",
-            "Permet une résistance à l'infection par le VIH en cas de déficit homozygote.",
-            "Est le co-récepteur du VIH au début d'infection."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les anti-protéases agissent sur:",
-        "propositions": [
-            "Les protéines de l'enveloppe",
-            "Les protéases virales du VIH",
-            "Les protéases cellulaires",
-            "Les protéines de la capside",
-            "Aucune des réponses citées ci-dessus n'est exacte."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Le virus de l'immunodéficience humaine (VIH):",
-        "propositions": [
-            "Peut être transmis par le sang, par contact sexuel ou par voie aérienne.",
-            "Peut être transmis de la mère à l'enfant via l'allaitement.",
-            "Possède, dans sa structure, une enzyme : la transcriptase inverse qui permet l'assemblage des protéines virales néosynthétisées.",
-            "Ne se lie à son corécepteur, qu'après liaison à son récepteur.",
-            "Utilise comme corécepteur, le CXCR4 au niveau des lymphocytes TCD4+ naïfs."
-        ],
-        "source": "Blida 2025"
-    },
-    {
         "question": "Les AC anti-VIH :",
         "propositions": [
             "Apparaissent 3 à 12 semaines après la primo-infection.",
@@ -6279,116 +4630,6 @@
         "source": "Blida 2025"
     },
     {
-        "question": "Les déficits immunitaires primitifs sont associés à",
-        "propositions": [
-            "La prise d'immunosuppresseurs",
-            "Infections par le virus HIV",
-            "La malnutrition",
-            "Défaut génétique affectant le système immunitaire."
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "La plupart des déficits immunitaires primitifs sont associés à",
-        "propositions": [
-            "Un retard neurologique",
-            "Perturbations endocriniennes",
-            "Déficits moteurs",
-            "Infections à répétition"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les déficits immunitaires primitifs affectant l'immunité innée peuvent résulter d'un défaut génétique",
-        "propositions": [
-            "Des enzymes RAG",
-            "Des enzymes responsables de la commutation (switch) isotypique",
-            "Des protéines de signalisation du BCR",
-            "De la phagocytose"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "La catégorie la plus concernée par les erreurs innées de l'immunité est représentée par les",
-        "propositions": [
-            "Patients âgés de plus de 60 ans",
-            "Les patients de sexe féminin",
-            "Les enfants nées par voie haute",
-            "Les enfants issus de mariage consanguin"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les erreurs innées de l'immunité à prédominance humorale se caractérisent par",
-        "propositions": [
-            "Une symptomatologie sévère dès les premiers jours de la naissance",
-            "Des infections à localisation profonde comme l'os",
-            "Des infections respiratoires à répétition",
-            "L'eczéma et l'ataxie"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les erreurs innées de l'immunité de type combiné se caractérisent par",
-        "propositions": [
-            "Une fonction normale des lymphocytes T",
-            "Une altération profonde de la phagocytose",
-            "La survenue de la maladie après la puberté",
-            "Un défaut quantitatif et/ou fonctionnel du lymphocyte T"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Le syndrome de Di George se caractérise par",
-        "propositions": [
-            "Une malformation faciale",
-            "Une taille normale du thymus",
-            "Un déficit profond en polynucléaires neutrophiles",
-            "Une symptomatologie à l'âge adulte"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Le syndrome d'ataxie télangiectasie est",
-        "propositions": [
-            "Un type des erreurs innées de l'immunité",
-            "Une forme particulière d'allergie",
-            "Secondaire à la prise continue de corticoïdes",
-            "Une maladie métabolique rare"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Une thrombopénie avec thrombopathie chez un enfant de sexe masculin peut orienter vers une erreur innée de l'immunité de type :",
-        "propositions": [
-            "Syndrome de Wiscott-Aldrich",
-            "Syndrome de Di George",
-            "Syndrome Kostmann",
-            "Syndrome d'ataxie télangiectasie"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Une hyperleucocytose chez un enfant avec antécédent de retard de chute du cordon ombilicale peut orienter vers une erreur innée de l'immunité de type :",
-        "propositions": [
-            "Syndrome de Wiscott-Aldrich",
-            "Déficit en adhésion de leucocytes (LAD)",
-            "Syndrome Kostmann",
-            "Syndrome d'ataxie télangiectasie"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Dans l'exploration immunobiologique des erreurs innées de l'immunité, l'interprétation de la sérologie post-vaccinale est impossible",
-        "propositions": [
-            "Avant l'âge d'un an pour les anticorps dirigés contre les antigènes protéiques",
-            "Avant l'âge de deux ans pour les anticorps dirigés contre les antigènes polysaccharidiques",
-            "Avant l'âge d'un an pour les anticorps dirigés contre les antigènes polysaccharidiques",
-            "Avant l'âge de deux ans pour les anticorps dirigés contre les antigènes protéiques"
-        ],
-        "source": "Blida 2025"
-    },
-    {
         "question": "l'immunophénotypage lymphocytaire par cytométrie en flux utilise des anticorps monoclonaux dirigés contre les",
         "propositions": [
             "CD3, CD4 et CD8 pour identifier les lymphocytes T",
@@ -6404,66 +4645,6 @@
         ],
         "explanation": "Elle peut encore être utilisée dans le phénotypage des population lymphocytaires B et T et des sous-populations de lymphocytes T (TCD4+ et TCD8+). On utilise dans ce cas, des anticorps monoclonaux spécifiques des antigènes cellulaires...(page 21)",
         "general_explanation": "Direct immunofluorescence is used in flow cytometry for immunophenotyping. Lymphocyte populations are identified by specific 'Cluster of Differentiation' (CD) markers: CD3 is the universal marker for T-cells, further subdivided into CD4+ (helper) and CD8+ (cytotoxic) subsets. In contrast, CD19/CD20/CD21 identify B-cells, and CD16/CD56 identify NK cells.",
-        "source": "Blida 2025"
-    },
-    {
-        "question": "l'agammaglobulinémie est une erreur innée de l'immunité se caractérise par des taux effondrés des",
-        "propositions": [
-            "Immunoglobulines circulantes",
-            "Des lymphocytes T circulants",
-            "Des cellules NK",
-            "Des Lymphocytes B"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Un taux normal ou élevé des immunoglobulines d'isotype IgM avec effondrement des immunoglobulines d'isotypes IgA et IgG peut orienter vers une erreur innée de l'immunité de type :",
-        "propositions": [
-            "Déficit immunitaire commun variable",
-            "Déficit immunitaire combiné sévère",
-            "Syndrome d'hyper-IgM",
-            "Agammaglobulinémie"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Dans les maladies auto-immunes spécifiques d'organes, on classe :",
-        "propositions": [
-            "La polyarthrite rhumatoïde",
-            "Le syndrome de Sjögren",
-            "La maladie de Basedow",
-            "La cholangite biliaire primitive"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Les auto-anticorps dits « physiologiques » :",
-        "propositions": [
-            "Sont doués d'une forte affinité vis-à-vis d'Ag du soi",
-            "Existent spontanément en l'absence d'une MAI",
-            "Sont souvent produits à des taux élevés",
-            "Ont pour rôle la régulation homéostatique du système immunitaire"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "Des mécanismes immunopathologiques de type humoral sont à la base des maladies auto-immunes suivantes :",
-        "propositions": [
-            "L'anémie hémolytique auto-immune",
-            "La thyroïdite de Hashimoto",
-            "Le lupus érythémateux systémique",
-            "Le diabète de type 1"
-        ],
-        "source": "Blida 2025"
-    },
-    {
-        "question": "La maladie cœliaque :",
-        "propositions": [
-            "Est une gastrite auto-immune déclenchée par l'ingestion du gluten",
-            "Est une allergie au blé responsable d'une atrophie villositaire",
-            "Est caractérisée par un syndrome de mal absorption",
-            "Est dépistée par la recherche des auto-anticorps anti-transglutaminase tissulaire"
-        ],
         "source": "Blida 2025"
     },
     {
