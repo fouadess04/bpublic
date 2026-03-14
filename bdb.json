@@ -3518,7 +3518,7 @@
         "general_explanation": [
             "La désensibilisation (ou immunothérapie allergénique) consiste en l'administration de doses croissantes et contrôlées de l'allergène pour induire une tolérance immunitaire, notamment via la production d'IgG4 bloquantes. La proposition 1 décrit le principe, la 2 le mécanisme. Les propositions 3, 4 et 5 sont incorrectes car il ne s'agit pas d'un traitement médicamenteux symptomatique, ni d'une éviction."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Dans les états d’hypersensibilité de type II, on peut classer:",
@@ -3543,7 +3543,7 @@
         "general_explanation": [
             "Toutes les propositions (1 à 5) sont des exemples d'hypersensibilité de type II (cytotoxique dépendant des anticorps). Les leucopénies médicamenteuses, les maladies hémolytiques auto-immunes, les allo-immunisations fœto-maternelles et le syndrome de Good-Pasture sont des classiques. La 'glomérulonéphrite liquide' est probablement une erreur de transcription pour un type de glomérulonéphrite impliquée dans ce mécanisme. Ainsi, la combinaison E (toutes) est correcte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "La réaction d’hypersensibilité de type III:",
@@ -3568,7 +3568,7 @@
         "general_explanation": [
             "L'hypersensibilité de type III est due à des complexes immuns (IgG/IgM, pas IgD) qui activent le complément. Elle peut survenir lors d'infections (comme dans la maladie sérique) mais l'utilisation thérapeutique d'anticorps monoclonaux chimériques (ex: Rituximab) peut effectivement induire une réaction de type III (maladie sérique). L'utilisation diagnostique est ponctuelle et moins à risque. La proposition D (3) est donc la plus précise."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les réactions d’hypersensibilité de type III:",
@@ -3593,7 +3593,7 @@
         "general_explanation": [
             "Les réactions de type III impliquent des IgG (et IgM), se caractérisent par le dépôt de complexes immuns (proposition E est la définition), et s'accompagnent d'une consommation du complément (hypocomplémentémie, pas hyper). Elles sont semi-retardées (4-6h) et n'impliquent pas les IgA. La proposition E est donc la seule exacte et complète."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "L’hypersensibilité allergique de contact:",
@@ -3618,7 +3618,7 @@
         "general_explanation": [
             "L'hypersensibilité de contact (type IV) est une réaction cutanée localisée au derme et épiderme (et hypoderme). Elle implique des haptènes mais pas exclusivement, des lymphocytes T CD4+ et CD8+ mémoire, et les cellules de Langerhans de la peau (pas du foie). Elle n'est pas appelée hypersensibilité à basophiles. La proposition A est la moins incorrecte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "L’hypersensibilité de type IV:",
@@ -3643,7 +3643,7 @@
         "general_explanation": [
             "L'hypersensibilité de type IV (retardée) apparaît en 24-72h, implique surtout des antigènes protéiques (et parfois lipidiques) présentés aux LT CD4+ et CD8+, avec un infiltrat de cellules mononucléées, et est explorée par les patch-tests ou l'IDR. La proposition 2 est inexacte car les polysaccharides seuls induisent rarement une hypersensibilité de type IV (ils sont plutôt T-indépendants). La réponse B est donc la réponse INEXACTE demandée."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les maladies suivantes s’accompagnent d’un état d’hypersensibilité retardée:",
@@ -3668,7 +3668,7 @@
         "general_explanation": [
             "L'hypersensibilité retardée (type IV) est impliquée dans la tuberculose (granulome), la leishmaniose, la sarcoïdose (granulome) et le diabète de type I (auto-immunité cellulaire). Le syndrome de Good-Pasture est une hypersensibilité de type II (anticorps anti-membrane basale). C'est donc la réponse INEXACTE."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Une réaction d’hypersensibilité de type retardée est à l’origine de:",
@@ -3693,7 +3693,7 @@
         "general_explanation": [
             "La lésion caséeuse de la tuberculose est due à une réaction d'hypersensibilité de type IV (retardée) médiée par les lymphocytes T. L'eczéma atopique est de type I, la glomérulonéphrite lupique de type III, les maladies auto-immunes systémiques sont mixtes (III, II, IV) mais pas exclusivement retardées, et la pneumonie d'éleveurs est de type III. La proposition E est donc exacte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les cellules impliquées dans la destruction des cellules tumorales sont représentées par:",
@@ -3718,7 +3718,7 @@
         "general_explanation": [
             "Les cellules NK (1), les macrophages activés (3) et les polynucléaires neutrophiles (4) sont impliqués dans la destruction des cellules tumorales (cytotoxicité, phagocytose, ADCC). Les éosinophiles (2) sont surtout impliqués dans la défense contre les parasites et l'allergie, les basophiles (5) dans l'allergie. La combinaison 1+3+4 est correcte, soit la proposition B."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les cellules cancéreuses apparaissent suite à des mutations dans l’ADN (cas des cancers spontanés indépendants de virus oncogènes) ayant toutes les mêmes conséquences qui sont:",
@@ -3743,7 +3743,7 @@
         "general_explanation": [
             "Les mutations dans les cancers spontanés conduisent à l'activation de la prolifération (1), l'inhibition de l'apoptose (2), l'échappement immunitaire (3), l'angiogenèse (4) et les métastases (5). Ce sont toutes des hallmarks du cancer. La proposition E (toutes) est donc correcte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Un antigène de tumeur est représenté par:",
@@ -3768,7 +3768,7 @@
         "general_explanation": [
             "Un antigène tumoral (ou néo-antigène) est une structure exprimée par la cellule maligne, absente des cellules saines du même tissu au même stade de développement, et capable d'induire une réponse immunitaire (rejet). La proposition A correspond exactement à cette définition."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les virus associés à des tumeurs humaines (Les antigènes viraux) sont:",
@@ -3793,7 +3793,7 @@
         "general_explanation": [
             "Toutes les associations virus-cancer proposées sont exactes : HTLV-1/leucémie T, EBV/lymphome de Burkitt, VHB-VHC/carcinome hépatocellulaire, HPV/cancer du col, HHV-8/sarcome de Kaposi. La proposition E (toutes) est donc correcte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Dans la réponse immunitaire anti-tumorale, on retrouve:",
@@ -3818,7 +3818,7 @@
         "general_explanation": [
             "Dans la réponse anti-tumorale, on a bien la présentation HLA-I aux CD8 (A), l'activation des CTL (C), la sécrétion de TNFα et IFNγ (pas IFNβ) (D est donc incorrecte car IFNβ n'est pas la cytokine majeure), et l'ADCC (E). Les cellules NK lysent les cellules déficientes en HLA de classe I (pas de classe II) (B est donc incorrecte). La réponse INEXACTE est la proposition B."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les mécanismes d’échappement des tumeurs au contrôle immunologique sont:",
@@ -3843,7 +3843,7 @@
         "general_explanation": [
             "Tous ces mécanismes sont décrits comme des stratégies d'échappement tumoral : blocage par anticorps facilitants (1), par complexes immuns (2), faible immunogénicité (3), immunoediting/sélection (4), immunodépression de l'hôte (5). La proposition E (toutes) est donc correcte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les marqueurs tumoraux sont:",
@@ -3868,7 +3868,7 @@
         "general_explanation": [
             "Les marqueurs tumoraux sont des substances (souvent protéiques) dosables dans les liquides biologiques, pouvant être sécrétés par divers cancers, et dont le taux est corrélé à la masse tumorale. La proposition 3 'substances sensibles aux enzymes cataboliques' n'est pas une définition générale des marqueurs tumoraux ; c'est plutôt une propriété de certaines molécules. C'est donc la proposition INEXACTE."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les approches thérapeutiques anti-tumorales font appelle à :",
@@ -3893,7 +3893,7 @@
         "general_explanation": [
             "Toutes ces approches sont utilisées en immunothérapie anti-tumorale : vaccination par cellules dendritiques (1), vaccins à cellules tumorales modifiées (2), anticorps monoclonaux comme le Rituximab (3), anticorps dirigés contre des antigènes tumoraux (4), et immunoconjugués (5). La proposition E (toutes) est donc correcte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Le principe de la vaccination par DC est basé sur :",
@@ -3918,7 +3918,7 @@
         "general_explanation": [
             "La vaccination par DC consiste à prélever des précurseurs de DC (A), les cultiver avec des cytokines (GM-CSF, IL-4...) pour les différencier (B), les charger en antigènes tumoraux (C), et les réinjecter au patient (D). L'utilisation d'enzymes (E) n'est pas le standard ; on utilise des cytokines. La proposition E est donc la réponse INEXACTE."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Le principe de la vaccination constitué de cellules tumorales autologues génétiquement modifiées :",
@@ -3943,7 +3943,7 @@
         "general_explanation": [
             "Cette stratégie de vaccination consiste à modifier génétiquement des cellules tumorales autologues pour exprimer des molécules comme B7 (1, pour la co-stimulation) ou GM-CSF (2, pour attirer et activer les DC). Les DC activées présentent alors l'Ag tumoral aux LT (3), avec co-stimulation (4), menant à la génération de CTL et à la régression tumorale (5). Toutes les étapes sont correctes, donc la combinaison E (toutes) est exacte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Les Ag tumoraux sont importants :",
@@ -3968,7 +3968,7 @@
         "general_explanation": [
             "Les antigènes tumoraux sont utilisés en diagnostic (1), pour le suivi (dosage sérique comme le PSA, imagerie ciblée) (2), et en thérapeutique (immunotoxines, CAR-T cells) (3). Les propositions 4 et 5 ne sont pas des applications directes et majeures des antigènes tumoraux. La combinaison 1+2+3 (proposition A) est donc exacte."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "Pour rendre plus immunogène une cellule tumorale il faut :",
@@ -3993,7 +3993,7 @@
         "general_explanation": [
             "Rendre une cellule tumorale plus immunogène (pour un vaccin) implique de la manipuler in vitro (culture, irradiation, transfection) et de la réinjecter, ou d'activer des cellules immunitaires spécifiques (DC, CTL). L'immunité passive (transfert d'anticorps ou de cellules) est une approche thérapeutique, mais ne rend pas la cellule tumorale elle-même plus immunogène. C'est donc la réponse INEXACTE."
         ],
-        "source": "Blida 20xx"
+        "source": "Blida 2024"
     },
     {
         "question": "l'exacerbation des réponses immunes adaptatives peut aboutir à",
